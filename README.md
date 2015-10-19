@@ -12,10 +12,18 @@ Attendus :
 - enfin, on demande à la fin à l'utilisateur s'il veut faire une nouvelle conversion, ce qui signifie que l'on doit pouvoir revenir au début du programme !
 
 #################################################
-Version 1 : (19.10.2015)
+Version 1 : (18.10.2015)
 - "Interface"
 - Choix conversion (+ contrôle)
 - Calcul température convertie
+
+ToDoList
+- Boucle / contrôle (redemander choix)
+- Boucle / renouveler recherche + sortie
+
+#################################################
+Version 2 : (19.10.2015)
+- Code "toiletté" (--> commandes hors conditions / dédoublonné)
 
 ToDoList
 - Boucle / contrôle (redemander choix)
