@@ -28,3 +28,11 @@ Version 2 : (19.10.2015)
 ToDoList
 - Boucle / contrôle (redemander choix)
 - Boucle / renouveler recherche + sortie
+
+#################################################
+Version 3 : Fonctionnelle (23.10.2015)
+- Boucle "contrôle" du choix de la conversion
+- Boucle "renouveler la recherche" implémentée 
+
+ToDoList
+- Boucle contrôle sans demande de la température (cf. branche git)
